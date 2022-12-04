@@ -1,6 +1,6 @@
 # Data Science: Capstone
 
-HarvardX PH125.9x EdX course
+**HarvardX PH125.9x EdX course**
 
 This repository contains my final project for the last course of the Data Science programme by HardvardX at EdX.
 
